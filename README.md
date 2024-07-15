@@ -15,6 +15,7 @@ actor_id: Unique identifier of actor
 event: The type of event (decision/skip/transfer).
 
 language: The Language of the content
+
 time_spent: Time spent to review the job in seconds.
 
 org: The Organization of the actor
